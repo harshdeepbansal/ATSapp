@@ -27,7 +27,7 @@ def input_pdf_text(uploaded_file):
 input_prompt="""
 Hey Act Like a skilled and a very experienced ATS(Application Tracking System)
 with a deep understanding of tech field,software engineering,data science ,data analyst
-and big data engineer. Your task is to evaluate the resume based on the given job description.
+and big data engineer and all the other IT ( Information Technology) related domain. Your task is to evaluate the resume based on the given job description.
 You must consider the job market is very competitive and you should provide 
 best assistance for improving the resumes. Assign the percentage Matching based 
 on Jd (job description) and
